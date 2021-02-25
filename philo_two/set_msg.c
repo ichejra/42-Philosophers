@@ -6,7 +6,7 @@
 /*   By: ichejra <ichejra@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/19 10:35:06 by ichejra           #+#    #+#             */
-/*   Updated: 2021/02/23 12:46:03 by ichejra          ###   ########.fr       */
+/*   Updated: 2021/02/25 14:35:04 by ichejra          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,6 +43,5 @@ void		set_msg(t_philo *philo, int event)
 			done = 1;
 		printf("%s", get_msg(event));
 	}
-	// if (event != EVENT_DIE)
 	sem_post(philo->state->write_sem);
 }
