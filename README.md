@@ -44,8 +44,9 @@ $>./philo_three num_of_philosophers time_to_die time_to_eat time_to_sleep [numbe
 - [Threads: Implementing Monitors using locks and condition variables](https://cis.temple.edu/~ingargio/old/cis307s96/readings/pbuffer.html)
 - [What is a Semaphore?](https://www.baeldung.com/cs/semaphore#)
 - [What is a Mutex?](https://www.baeldung.com/cs/what-is-mutex)
-- []()
-- []()
+- [Fork (system call)](https://en.wikipedia.org/wiki/Fork_(system_call))
+- [Que fait un fork() ?](https://www.commentcamarche.net/faq/10611-que-fait-un-fork)
+
 ## Author
 
 - ***[ichejra](https://github.com/ichejra)***
