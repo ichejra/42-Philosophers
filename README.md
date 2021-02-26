@@ -40,6 +40,12 @@ $>./philo_three num_of_philosophers time_to_die time_to_eat time_to_sleep [numbe
 ```
 
 ## Resources
-
+- [What Are Threads In A Processor?](https://www.pcerror-fix.com/about-processor-threads)
+- [Threads: Implementing Monitors using locks and condition variables](https://cis.temple.edu/~ingargio/old/cis307s96/readings/pbuffer.html)
+- [What is a Semaphore?](https://www.baeldung.com/cs/semaphore#)
+- [What is a Mutex?](https://www.baeldung.com/cs/what-is-mutex)
+- []()
+- []()
 ## Author
+
 - ***[ichejra](https://github.com/ichejra)***
